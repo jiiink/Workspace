@@ -1,0 +1,17 @@
+{
+  "name": "webassignment",
+  "version": "0.0.1",
+  "description": "웹응용프로그래밍 과제입니다",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "202055518 김병현",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
