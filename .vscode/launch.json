@@ -3,6 +3,19 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Bidding",
+      "request": "launch",
+      "mainClass": "Bidding.Bidding"
+    },
+    {
+      "type": "java",
+      "name": "FactorialMain",
+      "request": "launch",
+      "mainClass": "hw01.FactorialMain",
+      "projectName": "PBP"
+    },
+    {
+      "type": "java",
       "name": "ArrayEnum",
       "request": "launch",
       "mainClass": "hw03.ArrayEnum",
