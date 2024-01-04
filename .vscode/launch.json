@@ -3,6 +3,12 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JetBrain",
+      "request": "launch",
+      "mainClass": "JetBrain"
+    },
+    {
+      "type": "java",
       "name": "Bidding",
       "request": "launch",
       "mainClass": "Bidding.Bidding"

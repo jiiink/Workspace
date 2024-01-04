@@ -1,4 +1,4 @@
-package hw05;
+package PBP.src.hw05;
 
 public class School {
 	private String name ;
