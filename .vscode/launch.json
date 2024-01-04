@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SchoolTest",
+      "request": "launch",
+      "mainClass": "hw05.SchoolTest",
+      "projectName": "PBP"
+    },
+    {
+      "type": "java",
       "name": "JetBrain",
       "request": "launch",
       "mainClass": "JetBrain"
