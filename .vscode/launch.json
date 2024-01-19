@@ -3,6 +3,18 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SetAndHashSet",
+      "request": "launch",
+      "mainClass": "setvshashset.SetAndHashSet"
+    },
+    {
+      "type": "java",
+      "name": "Constructors",
+      "request": "launch",
+      "mainClass": "constructors.Constructors"
+    },
+    {
+      "type": "java",
       "name": "HelloWorld",
       "request": "launch",
       "mainClass": "DataStructure.src.HelloWorld"
