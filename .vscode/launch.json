@@ -3,6 +3,24 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MainEntry",
+      "request": "launch",
+      "mainClass": "Template.MainEntry"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "com.example.Main"
+    },
+    {
+      "type": "java",
+      "name": "MainEntry",
+      "request": "launch",
+      "mainClass": "MainEntry"
+    },
+    {
+      "type": "java",
       "name": "SuperDuper",
       "request": "launch",
       "mainClass": "superduper.SuperDuper"
