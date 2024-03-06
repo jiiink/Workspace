@@ -4,6 +4,6 @@ all: strTest
 %.o: %.cpp
 	g++ -c -o $@ $(CFLAGS) $<
 strTest: $(OBJS)
-	g++ -o strTest $(OBJS)
+	g++ -o $@ $(OBJS)
 clean:
 	rm strTest $(OBJS)
