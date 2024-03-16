@@ -147,6 +147,13 @@ Node* insert(Node* node, int key) {
     return node;
 }
 
+/*
+    Given a non-empty binary search tree,
+    return the node with minimum key value
+    found in that tree. Note that the entire tree
+    does not need to be searched.
+*/
+
 void preOrder(Node* root) {
     if (root != NULL) {
         cout << root->key << " ";
